@@ -25,7 +25,7 @@ Projects in Progress:
 - CSS (Tailwind)
 - JavaScript
 - NodeJS
-- c#
+- C#
 
 ## What I'm currently working on 📚
 
