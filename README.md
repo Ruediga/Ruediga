@@ -1,4 +1,8 @@
-Aspiring Software Developer from Austria
+#### Aspiring Software Developer from Austria
+<details>
+<summary>
+  Show more
+</summary>
 
 #### GitHub stats 
 <a href="https://github.com/anuraghazra/github-readme-stats">
