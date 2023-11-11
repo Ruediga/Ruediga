@@ -1,16 +1,44 @@
-### Ruediga
+Aspiring Software Developer from Austria
 
-<!--
-**Ruediga/Ruediga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<details>
+<summary>
+  More stuff about me
+</summary>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Quick overview
+
+
+#### GitHub stats 
+<a href="https://github.com/Ruediga/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.Ruediga.vercel.app/api?username=Ruediga&show_icons=true&line_height=27&include_all_commits=true" alt="My github stats" />
+</a>  
+
+Projects in Progress:
+* [MunkOS](https://github.com/Ruediga/MunkOS)
+
+
+## Skills 📜
+
+### Experienced
+
+- C / C++
+- Assembly
+- Python
+- OpenGL
+- Unreal Engine
+
+### Somewhat heard of
+
+- HTML
+- CSS (Tailwind)
+- JavaScript
+- NodeJS
+- c#
+
+## What I'm currently working on 📚
+
+- My own Operating System
+- OpenGL Graphics Library
+
+</details>
