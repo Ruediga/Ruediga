@@ -1,4 +1,4 @@
-#### Aspiring Software Developer from Austria
+### Aspiring Software Developer from Austria
 <details>
 <summary>
   Read more
