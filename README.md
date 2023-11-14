@@ -28,9 +28,9 @@
 - Java
 - Rust
 
-#### GitHub stats 
+## GitHub stats 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ruediga&show_icons=true&line_height=27&include_all_commits=true" alt="My github stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ruediga&show_icons=true&line_height=27&include_all_commits=true&theme=transparent" alt="My github stats" />
 </a>
 
 </details>
