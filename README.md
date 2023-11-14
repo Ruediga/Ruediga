@@ -23,7 +23,7 @@
 ### Somewhat heard of
 
 - HTML / CSS (Tailwind)
-- JavaScript / NodeJS
+- JavaScript / NextJS
 - C#
 - Java
 - Rust
