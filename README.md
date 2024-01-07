@@ -15,13 +15,13 @@
 ### Experienced
 
 - C / C++
-- Assembly
+- Assembly (x86)
 - Python
 - OpenGL
-- Unreal Engine
 
 ### Somewhat heard of
 
+- Unreal Engine
 - HTML / CSS (Tailwind)
 - JavaScript (React) / NextJS
 - C#
