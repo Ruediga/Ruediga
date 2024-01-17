@@ -4,17 +4,15 @@
   Read more
 </summary>
   
-## What I'm currently working on 📚
+## What I'm currently working on
 
 - My own Operating System: [MunkOS](https://github.com/Ruediga/MunkOS)
 - OpenGL Graphics Library
 
+## Experienced
 
-## Skills 📜
-
-### Experienced
-
-- C / C++
+- C
+- C++
 - Assembly (x86)
 - Python
 - OpenGL
@@ -22,11 +20,6 @@
 ### Somewhat heard of
 
 - Unreal Engine
-- HTML / CSS (Tailwind)
-- JavaScript (React) / NextJS
-- C#
-- Java
-- Rust
 
 <!--
 ## GitHub stats 
