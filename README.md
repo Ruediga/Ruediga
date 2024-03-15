@@ -3,23 +3,13 @@
 <summary>
   Read more
 </summary>
+
+Interested in systems programming at the moment.
   
 ## What I'm currently working on
 
 - My own Operating System: [MunkOS](https://github.com/Ruediga/MunkOS)
 - OpenGL Graphics Library
-
-## Experienced
-
-- C
-- C++
-- Assembly (x86)
-- Python
-- OpenGL
-
-### Somewhat heard of
-
-- Unreal Engine
 
 <!--
 ## GitHub stats 
